@@ -1,9 +1,9 @@
 # ToDoApp
 
 
-### [BACK END]
+### BACK END
 
-### [Installing dependencies and starting]
+### Installing dependencies and starting
 
 After you have cloned this project, you should run the command below to install the dependencies
 
@@ -18,9 +18,9 @@ yarn dev
 ```
 
 
-### [FRONT END]
+### FRONT END
 
-### [Installing dependencies and starting]
+### Installing dependencies and starting
 
 After you have cloned this project, you should run the command below to install the dependencies
 
